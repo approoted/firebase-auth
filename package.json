@@ -1,6 +1,6 @@
 {
   "name": "@approoted/firebase-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lightweight module to use Firebase authentication service",
   "main": "firebase-auth.js",
   "scripts": {
