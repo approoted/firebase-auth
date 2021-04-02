@@ -1,0 +1,26 @@
+{
+  "name": "@approoted/firebase-auth",
+  "version": "0.0.1",
+  "description": "Lightweight module to use Firebase authentication service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/approoted/firebase-auth.git"
+  },
+  "author": "Giuseppe Silletti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/approoted/firebase-auth/issues"
+  },
+  "homepage": "https://github.com/approoted/firebase-auth#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "debug": "^4.3.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
